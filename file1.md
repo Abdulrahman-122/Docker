@@ -35,8 +35,9 @@
   - so this is a safe way to store data in docker.
  
 to sum up;
-In Docker, an 'image' is a packaged application with all its dependencies, ready to be run as a container
-The command 'docker pull' is used to download images from Docker Hub.
-A Dockerfile is a text file that contains instructions for building a Docker image
-Docker Engine is the core component that creates and manages containe
-Docker is primarily used for containerization, which allows applications to run in isolated environments.
+
+    - In Docker, an 'image' is a packaged application with all its dependencies, ready to be run as a container
+    - The command 'docker pull' is used to download images from Docker Hub.
+    - A Dockerfile is a text file that contains instructions for building a Docker image
+    - Docker Engine is the core component that creates and manages containe
+    - Docker is primarily used for containerization, which allows applications to run in      isolated environments.
