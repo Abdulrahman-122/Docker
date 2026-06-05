@@ -4,11 +4,7 @@ const {Pool}=require ('pg')
 const app= express()
 
 const pool=new Pool({
-    // host:"My_db",
-    // user:"postgres",
-    // password:"AppSecrets",
-    // database:'postgres',
-    // port:5432
+
     host:process.env.DB_HOST,
     user:process.env.DB_USER,
     password:process.env.DB_PASSWORD,
