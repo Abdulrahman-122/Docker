@@ -101,7 +101,7 @@ that means data now in database of postgres container let's see
 <img width="1648" height="908" alt="image" src="https://github.com/user-attachments/assets/a8d55abb-deb0-4af1-838c-b4009b3f0bba" />
 <img width="1190" height="448" alt="image" src="https://github.com/user-attachments/assets/7627fa55-2282-4857-a0ff-6bbdcef23047" />
 
-and see data across backend
+and see data across backend; http://localhost:5001/api/time
 <img width="1920" height="458" alt="image" src="https://github.com/user-attachments/assets/05cf6a65-ef99-48e6-b06b-c71131ad4f58" />
 
 Features:
