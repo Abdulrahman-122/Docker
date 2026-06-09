@@ -1,9 +1,10 @@
-Prerequisites
-
-Install:
-
-Docker
-Git
+# Shipping mini full stack application using Docker
+    Prerequisites
+    
+    Install:
+    
+    Docker
+    Git
 
 Verify installation:
 
