@@ -1,1 +1,5 @@
-/home/abdo/Cybersec/Backend/Backend_projects/project2/package-lock.json
+node_modules/
+package-lock.json
+package.json
+
+
