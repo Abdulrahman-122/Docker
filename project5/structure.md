@@ -64,3 +64,14 @@ start compose the file
     flask db upgrade 
     
 
+this is from the container;
+     this is flask_container
+  <img width="1037" height="110" alt="image" src="https://github.com/user-attachments/assets/0852d477-7aaf-4cb9-a771-58a559878c02" />
+    this is maria container
+    <img width="1265" height="101" alt="image" src="https://github.com/user-attachments/assets/a36c9a3f-08a7-4f2c-bfa3-916a577c942b" />
+from here you will see two dockers running 
+<img width="1312" height="166" alt="image" src="https://github.com/user-attachments/assets/0afe4d77-6405-49f2-8b40-26b1f75cae3f" />
+and then i stop them then removed them;
+<img width="694" height="249" alt="image" src="https://github.com/user-attachments/assets/b8dcd90f-ff4f-4bb1-8ef1-385be559d011" />
+after removing them everything stopped;
+<img width="1299" height="653" alt="image" src="https://github.com/user-attachments/assets/d30bb079-54ba-4795-b1f3-487c6087043d" />
